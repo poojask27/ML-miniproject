@@ -1,0 +1,101 @@
+Pet_ID,Type,Age,Breed,Color,Health,Fee,AdoptionSpeed
+P001,Cat,9.7,Bulldog,Black,Healthy,4364,Moderate
+P002,Cat,6.9,Siamese,Grey,Minor Injury,4168,Fast
+P003,Dog,3.6,Labrador,White,Minor Injury,2733,Moderate
+P004,Dog,3.6,Bulldog,Grey,Healthy,2472,Fast
+P005,Dog,7.4,Bulldog,Black,Healthy,930,Moderate
+P006,Cat,1.7,Persian,Grey,Serious Injury,4952,Fast
+P007,Cat,8.4,Beagle,Brown,Minor Injury,1403,Fast
+P008,Cat,9.8,Siamese,Brown,Minor Injury,2211,Fast
+P009,Dog,1.5,Mixed,White,Healthy,3205,Fast
+P010,Cat,6.2,Beagle,Golden,Serious Injury,1962,Slow
+P011,Dog,9.0,Persian,Black,Healthy,654,Fast
+P012,Dog,2.8,Labrador,Golden,Healthy,4048,Moderate
+P013,Dog,9.1,Mixed,Black,Healthy,337,Slow
+P014,Dog,6.8,Beagle,Grey,Serious Injury,3284,Slow
+P015,Cat,3.2,Siamese,White,Healthy,3414,Moderate
+P016,Dog,4.7,Bulldog,Golden,Serious Injury,880,Moderate
+P017,Cat,5.2,Persian,Brown,Serious Injury,421,Fast
+P018,Dog,0.4,Siamese,Grey,Serious Injury,1737,Moderate
+P019,Cat,3.8,Labrador,Brown,Healthy,1149,Moderate
+P020,Cat,2.7,Beagle,White,Minor Injury,3989,Slow
+P021,Cat,5.5,Siamese,Brown,Healthy,3799,Moderate
+P022,Dog,9.6,Siamese,Golden,Minor Injury,3801,Fast
+P023,Cat,9.9,Bulldog,Brown,Minor Injury,4729,Fast
+P024,Dog,3.3,Labrador,Grey,Healthy,1097,Moderate
+P025,Dog,8.1,Mixed,White,Serious Injury,3906,Moderate
+P026,Dog,4.2,Labrador,Golden,Healthy,3102,Fast
+P027,Dog,7.5,Persian,Golden,Minor Injury,3341,Moderate
+P028,Dog,0.2,Beagle,White,Serious Injury,2296,Fast
+P029,Cat,4.9,Beagle,Brown,Minor Injury,829,Fast
+P030,Dog,4.7,Labrador,Golden,Serious Injury,2704,Fast
+P031,Dog,2.1,Persian,White,Minor Injury,4943,Slow
+P032,Cat,8.1,Persian,White,Serious Injury,2929,Moderate
+P033,Cat,8.1,Bulldog,Brown,Minor Injury,343,Slow
+P034,Cat,2.6,Beagle,Brown,Serious Injury,810,Slow
+P035,Dog,6.1,Labrador,Black,Serious Injury,2452,Moderate
+P036,Dog,6.8,Labrador,White,Serious Injury,2432,Slow
+P037,Cat,5.7,Bulldog,Black,Healthy,4234,Fast
+P038,Dog,5.8,Bulldog,Golden,Serious Injury,2802,Slow
+P039,Cat,6.2,Siamese,Black,Serious Injury,2466,Moderate
+P040,Cat,9.7,Beagle,Black,Serious Injury,307,Moderate
+P041,Cat,2.7,Beagle,Grey,Healthy,4537,Slow
+P042,Cat,9.1,Bulldog,Grey,Serious Injury,3512,Fast
+P043,Dog,3.2,Beagle,Golden,Minor Injury,4830,Moderate
+P044,Cat,7.1,Labrador,Black,Minor Injury,1017,Moderate
+P045,Dog,4.2,Bulldog,White,Serious Injury,2423,Moderate
+P046,Cat,7.4,Mixed,Grey,Minor Injury,3066,Fast
+P047,Dog,0.4,Labrador,Grey,Serious Injury,930,Moderate
+P048,Dog,9.5,Mixed,Brown,Minor Injury,781,Moderate
+P049,Dog,8.1,Mixed,Black,Healthy,1895,Fast
+P050,Dog,6.5,Labrador,Brown,Serious Injury,809,Slow
+P051,Cat,6.8,Labrador,Black,Healthy,1791,Fast
+P052,Cat,5.7,Mixed,White,Minor Injury,4363,Slow
+P053,Cat,1.3,Mixed,White,Serious Injury,4077,Moderate
+P054,Cat,3.0,Persian,Golden,Serious Injury,2996,Slow
+P055,Cat,9.6,Bulldog,Golden,Healthy,561,Slow
+P056,Dog,5.6,Beagle,Grey,Serious Injury,2869,Slow
+P057,Cat,5.4,Beagle,Brown,Minor Injury,2022,Fast
+P058,Cat,7.6,Siamese,Grey,Healthy,4260,Fast
+P059,Cat,5.2,Labrador,White,Serious Injury,3083,Moderate
+P060,Dog,1.9,Beagle,Brown,Serious Injury,174,Slow
+P061,Cat,1.5,Beagle,Grey,Serious Injury,3196,Fast
+P062,Cat,8.6,Beagle,Black,Serious Injury,4331,Moderate
+P063,Cat,8.6,Mixed,White,Serious Injury,2717,Slow
+P064,Cat,6.3,Persian,White,Healthy,1827,Moderate
+P065,Cat,4.4,Persian,Grey,Serious Injury,2515,Moderate
+P066,Dog,9.5,Labrador,Black,Serious Injury,4311,Slow
+P067,Dog,9.2,Bulldog,Black,Healthy,3724,Moderate
+P068,Dog,3.7,Beagle,White,Minor Injury,3384,Moderate
+P069,Cat,1.7,Persian,Black,Minor Injury,3764,Fast
+P070,Cat,0.8,Mixed,Brown,Healthy,3113,Slow
+P071,Dog,4.8,Beagle,Brown,Healthy,3634,Slow
+P072,Dog,2.7,Persian,Grey,Minor Injury,3472,Slow
+P073,Cat,5.3,Beagle,Brown,Minor Injury,2582,Fast
+P074,Dog,4.7,Bulldog,Black,Minor Injury,4824,Fast
+P075,Cat,3.9,Bulldog,Brown,Serious Injury,2189,Fast
+P076,Dog,4.3,Persian,White,Serious Injury,4470,Moderate
+P077,Dog,9.6,Persian,Grey,Healthy,4658,Fast
+P078,Cat,7.5,Mixed,Grey,Minor Injury,4358,Slow
+P079,Dog,7.9,Labrador,Brown,Serious Injury,4600,Moderate
+P080,Dog,9.9,Mixed,White,Healthy,1098,Fast
+P081,Dog,1.2,Beagle,Brown,Healthy,3785,Moderate
+P082,Cat,1.4,Bulldog,Brown,Serious Injury,2346,Fast
+P083,Cat,3.6,Mixed,Black,Serious Injury,1368,Slow
+P084,Cat,1.8,Siamese,Golden,Serious Injury,3974,Slow
+P085,Dog,3.8,Siamese,Golden,Minor Injury,4864,Moderate
+P086,Dog,5.3,Mixed,Brown,Healthy,104,Fast
+P087,Cat,2.7,Labrador,Brown,Minor Injury,3960,Moderate
+P088,Dog,7.0,Labrador,Grey,Minor Injury,4505,Slow
+P089,Cat,5.4,Mixed,Golden,Serious Injury,10,Slow
+P090,Cat,7.5,Labrador,Grey,Minor Injury,2420,Moderate
+P091,Dog,1.8,Siamese,White,Healthy,3883,Fast
+P092,Dog,7.3,Bulldog,Grey,Healthy,2069,Moderate
+P093,Cat,1.7,Bulldog,Grey,Minor Injury,923,Fast
+P094,Dog,1.9,Bulldog,Black,Minor Injury,2468,Fast
+P095,Dog,4.7,Persian,Grey,Serious Injury,3534,Slow
+P096,Cat,4.6,Beagle,Golden,Serious Injury,2915,Moderate
+P097,Dog,5.7,Bulldog,Grey,Serious Injury,1126,Moderate
+P098,Dog,8.2,Siamese,Brown,Healthy,2021,Moderate
+P099,Dog,1.4,Bulldog,White,Healthy,4320,Fast
+P100,Cat,7.5,Persian,White,Minor Injury,2603,Moderate
